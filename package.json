@@ -1,0 +1,21 @@
+{
+    "name": "parsing_sign",
+    "version": "1.0.0",
+    "description": "Return sign value from url",
+    "main": "./src/main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node ./src/main.js"
+    },
+    "keywords": [],
+    "author": "Umar Khalilov",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^19.11.0",
+        "puppeteer-extra": "^3.3.6",
+        "puppeteer-extra-plugin-stealth": "^2.11.2"
+    },
+    "devDependencies": {
+        "prettier": "^2.8.8"
+    }
+}
