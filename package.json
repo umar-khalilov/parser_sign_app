@@ -1,5 +1,5 @@
 {
-    "name": "parsing_sign",
+    "name": "parser_sign_app",
     "version": "1.0.0",
     "description": "Return sign value from url",
     "main": "./src/main.js",
